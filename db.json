@@ -28,8 +28,8 @@
           "Developed scalable web applications using React.js and Node.js",
           "Optimized invoice bundling process using AWS lambda and SQS. Reduced the 6+ hours of processing to under 5 minutes",
           "Worked with product managers to define project requirements",
-          "Atutomate Service Account Password rotation using Delenia and AWS",
-          "Docuemnted grails application to run locally using Spring servlet",
+          "Automated  Service Account Password rotation using Delenia and AWS Secret Manager",
+          "Documented grails application to run locally using Spring servlet",
           "Use Serverless framework to provision Lambda resources and deployment"
         ],
         "environment": [
@@ -51,17 +51,17 @@
           "Led a team of developers to deliver project milestones on time",
           "Collaborated with product managers to define project requirements",
           "Worked closely with QA team to identify and fix software bugs",
-          "Integrated several REST API for registration, RSVP, payment plans.",
+          "Integrated several REST API for registration, RSVP, and payment plans.",
           "Integrated Redis for managing sessions between multiple pods.",
           "Worked with dust.js templates to fulfill the business requirement.",
-          "Written unit test using Junit 4 and Mockito to satisfy the code coverage for sonar scan",
+          "Written unit test using JUnit 4 and Mockito to satisfy the code coverage for sonar scan",
           "Developed the custom Global Exceptional handler using Spring Boot",
-          "Debug, traced, and resolve the production issue using the Splunk and ECP console",
+          "Debuged, traced, and resolved the production issue using the Splunk and ECP console",
           "Released the software to the production using XLR template, routed the production to different pods, and tested the BAU functionality",
           "Worked with BAYA thread modeling to mitigate security vulnerabilities.",
           "Worked with Vertex to create one data SOR and Business functions.",
           "Written UI modules using the React library.",
-          "Design and developed REST endpoint using Spring Boot and utilizing API build by other teams.",
+          "Design and developed REST endpoint using Spring Boot and utilizing API built by other teams.",
           "Worked with Cloud Object Storage (AWS) and created a jar for easy integration with Spring Boot projects."
         ],
         "environment": [
@@ -101,7 +101,7 @@
         "responsibilities": [
           "Converted monolithic app architecture to microservices.",
           "Intergraded API for registration page and deployed to Private Cloud environment using XLR release.",
-          "Involved in requirements analysis, Object-Oriented Design and Coding.",
+          "Involved in requirements analysis, Object-Oriented Design, and Coding.",
           "Used Hibernate as an ORM for data persistence.",
           "Used various APIs to integrate with the application and business layer.",
           "Preparation of Hibernate mapping files to perform the O-R mapping and enforce object relationships.",
@@ -109,10 +109,10 @@
           "Used XML extensively in the process of communicating with several external applications.",
           "Preparing and executing unit test cases using Junit.",
           "Preparing and executing integration test cases using Junit.",
-          "Provided Technical Support during various phases of testing like Integration, System and User Acceptance Testing.",
+          "Provided Technical Support during various phases of testing like Integration, System, and User Acceptance Testing.",
           "Worked with the QA team to identify and fix software bugs.",
           "Participated in code reviews and provided constructive feedback",
-          "Worked closely with QA team to identify and fix software bugs"
+          "Worked closely with the QA team to identify and fix software bugs"
         ]
       },
       {
@@ -122,19 +122,19 @@
         "dates": "Mar 2020 - Jun 2021",
         "responsibilities": [
           "Worked on a different Web Application server such as WebLogic, JBoss, Web Sphere, and Tomcat.",
-          "Used Web services, Web Processing Service (WPS), BPEL, REST extensively for Operations module. Technologies SOAP, WSDL, SAML, XSD, JMS, and MDB are also used.",
+          "Used Web services, Web Processing Service (WPS), BPEL, and REST extensively for Operations module. Technologies SOAP, WSDL, SAML, XSD, JMS, and MDB are also used.",
           "Eclipse is used for application development.",
-          "Deployed the packaging on to Web Logic 8.1 application server.",
-          "Contributed to project by working on end-to-end flow - developing JSP's, Servlet, action classes of Spring and database front by writing various SQL queries and Stored Procedures.",
+          "Deployed the packaging onto Web Logic 8.1 application server.",
+          "Contributed to the project by working on end-to-end flow - developing JSPs, Servlet, action classes of Spring and database front by writing various SQL queries and Stored Procedures.",
           "Designed and developed reports using Crystal Reports and JReport.",
           "Used Java Beans for the required JSP components.",
           "Built, tested, and debugged JSP Pages for critical modules in the system. Coded the Taglibs to aid front-end JSP pages.",
           "Deployed the application on the server, including installing MySQL database and setting up JDK and Tomcat.",
           "Developed supporting JAVA classes that controlled the whole flow of the module as per specifications.",
-          "Involved in the high level and low-level designing of the admin and Info center module.",
+          "Involved in the high-level and low-level designing of the admin and Info center module.",
           "Coded the designated Java server pages (JSPs) and associated front-end screens using I3ML as per specifications.",
           "Involved in client interaction for resolving technical and functional issues daily.",
-          "Developed the user interface layer using spring framework and React."
+          "Developed the user interface layer using Spring framework and React."
         ],
         "environment": [
           "Java",
@@ -170,7 +170,7 @@
         "responsibilities": [
           "Built, tested, and debugged JSP Pages for critical modules in the system. Coded the Taglibs to aid front-end JSP pages.",
           "Involved in requirements analysis, Object-Oriented Design, and Coding.",
-          "Scheduled cronjobs to automate the report delivery.",
+          "Scheduled cron jobs to automate the report delivery.",
           "Used Hibernate as an ORM for data persistence.",
           "Used various APIs to integrate with the application and business layer.",
           "Preparation of Hibernate mapping files to perform the O-R mapping and enforce object relationships.",
@@ -180,11 +180,11 @@
           "Developed XSLs to customize the display data from XMLs obtained through other systems.",
           "Used React JS, HTML, JavaScript for front end.",
           "Preparing and executing unit test cases using J-unit",
-          "Provided Technical Support during various phases of testing like Integration, System and User Acceptance Testing.",
+          "Provided Technical Support during various phases of testing like Integration, System, and User Acceptance Testing.",
           "Writing the Unit test cases usage of J-unit to test the application.",
-          "Actively managed, improved, and monitor AWS Cloud infrastructures such as EC2 instance, S3, and RDS and applied backup, patches, and scaling.",
+          "Actively managed, improved, and monitored AWS Cloud infrastructures such as EC2 instance, S3, and RDS and applied backup, patches, and scaling.",
           "Reduced the cost by 30% by eliminating unnecessary servers and consolidating databases.",
-          "Automated Build and deployment by using Jenkins to reduce human error and accelerate production process."
+          "Automated Build and deployment by using Jenkins to reduce human error and accelerate the production process."
         ]
       }
     ],
