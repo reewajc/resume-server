@@ -204,7 +204,11 @@
       "Agile Development",
       "Problem-solving"
     ],
-    "certifications": "AWS Certified Developer Associate (DEV-CO2)",
+    "certification": {
+    "name": "AWS Certified Developer - Associate",
+    "level": "Associate",
+    "date": "Jan 22, 2024"
+    },
     "languages": ["English (Fluent)"],
     "references": [
       {
